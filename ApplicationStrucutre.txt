@@ -1,0 +1,22 @@
+Step 1:Select the platform for the application.
+
+   i) To run the scheduler for a task daily, weekly, or monthly, we can go with a console application using.net technology.
+   ii) Always prefer the latest, and the LTS framework has to be selected.
+
+Step 2:Based on the application required, we have to use the correct pattern to maintain the application.
+   
+Step 3:Define the folder and file structure. 
+   
+   i) Based on the file.cs, we have to define the folder structure, like service,common, etc so that other developers can easily understand the structure of the project
+
+Step 4: Code reuseablity.
+   i) Always maintain separate methods based on the logic so that it's possible to avoid repeat code and the same code can be used in multiple places. In the future, if there is an issue with the logic
+We can easily sort it out and fix it in a quick manner.
+
+Step 5:Log
+
+   i)Logging is the thumb of the application. It's helpful to find the bug and analyse the performance improvement.
+   ii)Based on the requirement the log has to be store in sever/database side.
+   iii)Have to maintain two levels of logs. 
+               1:Information log 
+			   2:Error log (Immediate attention is required.)
