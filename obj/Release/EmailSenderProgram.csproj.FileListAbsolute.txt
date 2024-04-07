@@ -1,0 +1,12 @@
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Release\EmailSenderProgram.exe.config
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Release\EmailSenderProgram.exe.manifest
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Release\EmailSenderProgram.application
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Release\EmailSenderProgram.exe
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Release\EmailSenderProgram.pdb
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Release\EmailSenderProgram.csproj.AssemblyReference.cache
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Release\EmailSenderProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Release\EmailSenderProgram.csproj.CoreCompileInputs.cache
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Release\EmailSenderProgram.exe.manifest
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Release\EmailSenderProgram.application
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Release\EmailSenderProgram.exe
+C:\Users\91737\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Release\EmailSenderProgram.pdb
