@@ -23,7 +23,7 @@ namespace EmailSenderProgram.Common
                             //Create a new MailMessage
                             System.Net.Mail.MailMessage m = new System.Net.Mail.MailMessage();
                             //Add customer to reciever list
-                            m.To.Add("newtonselvam@gmail.com");
+                            m.To.Add(e);
                             if (CC != null && CC.Any())
                             {
                                 CC.ForEach(p =>
@@ -49,7 +49,7 @@ namespace EmailSenderProgram.Common
                             SmtpClient client = new SmtpClient(ConfigurationManager.AppSettings.GetValues("smptserver")?.FirstOrDefault()?.ToString());
                             client.Port = int.Parse(ConfigurationManager.AppSettings.GetValues("smptport")?.FirstOrDefault()?.ToString());
                             client.UseDefaultCredentials = false;
-                            client.Credentials = new NetworkCredential(ConfigurationManager.AppSettings.GetValues("senderemail")?.FirstOrDefault()?.ToString(), "gxgo gkju gfys xcso");
+                            client.Credentials = new NetworkCredential(ConfigurationManager.AppSettings.GetValues("senderemail")?.FirstOrDefault()?.ToString(), ConfigurationManager.AppSettings.GetValues("password")?.FirstOrDefault()?.ToString());
                             client.EnableSsl = true;
                             //Send mail
                             client.Send(m);
